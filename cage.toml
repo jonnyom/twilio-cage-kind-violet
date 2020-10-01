@@ -1,0 +1,8 @@
+[cage.environment]
+TWILIO_SID = "YOUR_TWILIO_SID"
+TWILO_AUTH_TOKEN = "YOUR_TWILIO_TOKEN"
+TWILIO_NUMBER = "YOUR_TWILIO_NUMBER"
+
+[cage.playground]
+to = "+1-202-555-0133"
+body = "Encrypted hello from Evervault!"
